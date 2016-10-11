@@ -1,0 +1,16 @@
+{
+  "name": "mharbers/icecat-bundle",
+  "type": "symfony-bundle",
+  "description": "A Symfony2 Bundle for the haringsrob/icecat library",
+  "keywords": ["icecat","symfony2"],
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "require": {
+    "haringsrob/icecat":"dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mharbers\\IcecatBundle\\": "src"
+    }
+  }
+}
