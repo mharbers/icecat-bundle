@@ -1,5 +1,5 @@
 <?php
-namespace Mharbers\IcecatBundle;
+namespace MH\IcecatBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
