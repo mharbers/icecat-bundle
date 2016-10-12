@@ -1,10 +1,10 @@
 services:
-  mharbers_icecat.fetcher:
+  mh_icecat.fetcher:
     class: haringsrob\Icecat\Model\Fetcher
     arguments:
       - '%icecat.username%'
       - '%icecat.password%'
       - ''
       - '%icecat.language%'
-  mharbers_icecat.result:
+  mh_icecat.result:
     class: haringsrob\Icecat\Model\Result
