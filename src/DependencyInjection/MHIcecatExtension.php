@@ -1,12 +1,12 @@
 <?php
-namespace Mharbers\IcecatBundle\DependencyInjection;
+namespace MH\IcecatBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Extension\Extension;
 use Symfony\Component\DependencyInjection\Loader\YamlFileLoader;
 
-final class MharbersIcecatExtension extends Extension
+final class MHIcecatExtension extends Extension
 {
 
     /**

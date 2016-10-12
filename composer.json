@@ -10,7 +10,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Mharbers\\IcecatBundle\\": "src"
+      "MH\\IcecatBundle\\": "src"
     }
   }
 }
