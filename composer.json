@@ -6,7 +6,7 @@
   "minimum-stability": "stable",
   "license": "MIT",
   "require": {
-    "haringsrob/icecat":"dev-master"
+    "haringsrob/icecat":"@dev"
   },
   "autoload": {
     "psr-4": {
